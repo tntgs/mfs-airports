@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "SCENERY",
+  "title": "KDBQ Dubuque Regional Airport",
+  "manufacturer": "",
+  "creator": "TNT",
+  "package_version": "0.2.1",
+  "minimum_game_version": "1.26.5",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}
