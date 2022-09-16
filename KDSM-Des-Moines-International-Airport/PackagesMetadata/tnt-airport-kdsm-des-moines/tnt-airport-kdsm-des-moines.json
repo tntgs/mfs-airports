@@ -1,0 +1,24 @@
+{
+  "business": {
+    "PriceInUSD": 0.0,
+    "ThirdPartyShortName": "tnt",
+    "AccountSellerId": "",
+    "UseFirstAvailableReleaseDate": true
+  },
+  "marketplace": {
+    "sections": [
+      {
+        "category": "Airports",
+        "section": "Airports"
+      }
+    ]
+  },
+  "locations": [
+    {
+      "type": "airport",
+      "airportCode": "KDSM",
+      "latitude": 41.53397206217051,
+      "longitude": -93.66307228803635
+    }
+  ]
+}
