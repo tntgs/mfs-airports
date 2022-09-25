@@ -4,8 +4,8 @@
   "title": "KDBQ Dubuque Regional Airport",
   "manufacturer": "",
   "creator": "TNT",
-  "package_version": "0.2.1",
-  "minimum_game_version": "1.26.5",
+  "package_version": "0.3.0",
+  "minimum_game_version": "1.27.21",
   "release_notes": {
     "neutral": {
       "LastUpdate": "",
